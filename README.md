@@ -4,7 +4,7 @@
 ## 1. Web Applications (個人開発)
 
 ### 1.1. Calorie & Weight Tracker (高機能カロリー・体重管理アプリ)
-🔗 **[> https://calorie-xi.vercel.app](#)** 
+🔗 **https://calorie-xi.vercel.app** 
 #### プロジェクトの背景と目的 (Motivation)
 個人の健康管理において、「正確なカロリー収支の把握」と「継続的な記録」をサポートするためのアプリケーションです。
 既存アプリの入力の手間や、トレーニング中のバックグラウンド操作における課題を解消するため、「PWAによるネイティブアプリに迫るUX」と「多言語対応の高度な食品データベース検索」を備えた実用性の高いツールとして開発しました。
@@ -25,7 +25,7 @@
 ---
 
 ### 1.2. Household Account Book (収支管理アプリ)
-🔗 **[> https://household-account-book-swart.vercel.app](#)** 
+🔗 **https://household-account-book-swart.vercel.app** 
 #### プロジェクトの背景と目的 (Motivation)
 単なる記録ツールではなく、「気づき」を与え資産形成をサポートする家計簿アプリケーションです。
 クレジットカードの引き落とし日や銀行口座の必要額を自動計算して警告を出すなど、キャッシュフローの可視化による実践的な課題解決を図り、日々の家計管理を効率化します。
@@ -48,7 +48,7 @@
 ## 2. Research / Academic Projects (研究活動)
 
 ### 2.1. グラフアルゴリズムの並列化と高速化研究 (Brandes Algorithm)
-🔗 **[> https://github.com/m5291091/lab](#)**
+🔗 **https://github.com/m5291091/lab**
 
 #### プロジェクトの背景と目的 (Motivation)
 ネットワーク分析において中心的な指標となる「媒介中心性 (Betweenness Centrality)」を算出するための Brandesアルゴリズム について、大規模グラフデータに対する計算コストの課題を解決するため、並列計算によるアプローチとパフォーマンスチューニングを行いました。
